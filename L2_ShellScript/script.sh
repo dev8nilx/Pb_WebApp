@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo "Enter file name:"
 read FileName
 touch $FileName.txt
